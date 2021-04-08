@@ -1,0 +1,3 @@
+# mesoscale-morphology
+
+This repository contains all the code for an ACP manuscript: Mohrmann et al: "Identifying meteorological influences on marine low cloud mesoscale morphology using satellite classifications". This release contains all code and intermediate processed datasets (specifically the archive unified_table_add.zip, containing processed classifications) used in the creation of the manuscript. While new commits and changes to this repository may reflect additional development on this project, the release linked to the DOI in the manuscript is current at the time of manuscript submission.
